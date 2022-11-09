@@ -12,6 +12,10 @@ import { IPFS } from "ipfs/dist/src/";
 
     try {
 
+
+
+        
+
         const files = [{
             path: "/tmp/myfile2.txt",
             content: `
