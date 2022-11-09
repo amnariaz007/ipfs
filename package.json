@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "bs58": "^4.0.1",
-    "ipfs": "^0.65.0"
+    "ipfs": "^0.65.0",
+    "ipfs-api": "^26.1.2",
+    "ipfs-http-client": "^50.1.2",
   }
 }
